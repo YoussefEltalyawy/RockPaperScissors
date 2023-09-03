@@ -1,0 +1,28 @@
+.score-board {
+  background-color: tomato;
+  color: white;
+  display: flex;
+  padding: 2rem;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+.choices {
+  display: flex;
+}
+
+button {
+  width: 100%;
+  border: none;
+  margin: 5px;
+  padding: 5px;
+  background-color: cornflowerblue;
+  border-radius: 6px;
+  color: white;
+}
